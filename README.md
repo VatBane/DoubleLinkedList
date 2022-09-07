@@ -6,4 +6,4 @@ There is no useful information but have been implemented selection sort (I think
 inner-implemented functions, only by my knowledge.
 
 In directory x64/Debug is .exe file that have to work and demonstrate the reason I built it for. 
-!!! Russian language !!!
+** !!! Russian language !!! **
